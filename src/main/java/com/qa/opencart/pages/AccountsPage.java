@@ -24,7 +24,6 @@ public class AccountsPage {
 	private final By logoutLink = By.linkText("Logout");
 	private final By search = By.name("search");
 	private final By searchIcon = By.cssSelector("div#search button");
-	private final By searchIcon2 = By.cssSelector("div#search button");
 
 	
 
