@@ -25,6 +25,7 @@ public class LoginPage {
 	private final By registerLink = By.linkText("Register");
 
 	private final By loginErrorMessg = By.cssSelector("div.alert.alert-danger.alert-dismissible");
+	
 
 	private static final Logger log = LogManager.getLogger(LoginPage.class);
 
